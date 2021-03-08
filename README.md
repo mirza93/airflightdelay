@@ -6,4 +6,4 @@ Well, that’s what this project will attempt to do. This will be a regression p
 
 To complete this project, we need some data about flights. Fortunately, the government keeps such a resource available that we are going to examine in this project.
 
-Similar to the project about faculty salaries, this post will be split into two major parts: exploratory data analysis and feature engineering in pyhton, with regression model implementation in Python as well.
+
