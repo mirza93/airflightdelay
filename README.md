@@ -1,4 +1,5 @@
 Air Flight Delay
+
 I don’t know about all of you, but flying doesn’t always go smoothly for me. I have had some horror stories I could tell you about weird delays I have encountered while flying. Wouldn’t it be nice to know how much your flight will probably be delayed and why?
 
 Well, that’s what this project will attempt to do. This will be a regression problem where I will try to predict the delay time in number of minutes (which can be negative). The regression model will not be restricted to a single city, so we are going to be working with a very large number of training examples!
